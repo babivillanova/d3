@@ -21,14 +21,16 @@ form {
   display: block;
   height: 40vh;
   width: 90vw;
-  border: rgb(92, 90, 79) 1px solid;
+  /* border: rgb(92, 90, 79) 1px solid; */
   margin: auto;
 }
 
 main {
   display: block;
-  height: 45vh;
+  height: 40vh;
   width: 90vw;
-  border: rgb(92, 90, 79) 1px solid;
+  background-color: rgb(92, 90, 79, 0.3);
+  /* border: rgb(92, 90, 79) 1px solid; */
+  border-radius: 10px;
   margin: auto;
 }
